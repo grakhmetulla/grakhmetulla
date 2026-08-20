@@ -1,0 +1,20 @@
+LINK AUDIT
+
+Confirmed / updated:
+- Google Scholar: exact profile URL
+- LinkedIn: current professional profile
+- CV: local PDF in this repository
+- PETRA 2025: DOI
+- GeShort: DOI + stable PDF
+- Crownboard: DOI
+- SwipeRing: Graphics Interface publication page
+- Action-Level Metrics: Graphics Interface publication page
+- TapStr: ACM page + stable PDF
+- Senorita: ACM page + stable PDF
+- Put a Ring on It: stable PDF
+
+Removed:
+- PDF buttons that depended on gulnarrakhmetulla.com for Crownboard, SwipeRing, and Action-Level Metrics,
+  because those URLs could break after the old Bluehost site is retired.
+
+YouTube Presentation/Video URLs were preserved from the user's original publication list.

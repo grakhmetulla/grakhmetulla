@@ -1,9 +1,6 @@
-Website v6 final update.
+Website v8.
 
-Includes the latest CV uploaded by the user:
-- Gulnar_Rakhmetulla_CV.pdf
-- Dedicated cv.html page
-- Open PDF and Download CV buttons
-- Embedded CV viewer
-
-Upload all files in this folder directly to the GitHub repository root.
+CV behavior changed:
+- The CV item in the top navigation opens Gulnar_Rakhmetulla_CV.pdf directly.
+- The footer CV link also opens the PDF directly.
+- cv.html remains only as a compatibility redirect to the PDF.
